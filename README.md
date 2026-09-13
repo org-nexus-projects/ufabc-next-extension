@@ -1,3 +1,6 @@
+## Este projeto foi migrado para o monorepo que unifica o frontend, backend e extensão google. Confira em: https://github.com/org-nexus-projects/ufabc-next ##
+
+
 # UFABC next - Extension
 
 ### Como rodar o projeto?
