@@ -46,7 +46,7 @@
     "element-plus": "^2.8.4",
     "highcharts": "^12.0.1",
     "highcharts-vue": "^2.0.1",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "lucide-vue-next": "^0.447.0",
     "mustache": "^4.2.0",
     "ofetch": "^1.4.0",
